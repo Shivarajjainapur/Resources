@@ -1,8 +1,8 @@
 motor 
 cloudscraper
-
-
-'''
-Note ⚠️: Add This Code In Your requirements.text File, Ignore If Already Available.
-Credit @GK-BOTZ
-'''
+pyrofork
+tgcrypto
+psutil
+telethon
+python-dotenv
+pyromod
